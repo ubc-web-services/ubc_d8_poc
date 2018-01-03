@@ -3,8 +3,8 @@
   "description": "Custom UBC Drupal8 Proof of Concept",
   "type": "drupal-custom-module",
 	"repositories": [{
-		"type": "path",
-		"url": "./ubc_announcement"
+		"type": "git",
+		"url": "https://github.com/ubc-web-services/ubc_d8_poc/tree/master/ubc_announcement"
 	}],
 	"require": {
 		"ubc-web-services/ubc_announcement": "dev-master"
