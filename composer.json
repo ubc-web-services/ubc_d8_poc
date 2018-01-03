@@ -1,0 +1,9 @@
+{
+  "name": "ubc-web-services/ubc_d8_poc",
+  "description": "Custom UBC Drupal8 Proof of Concept",
+  "type": "drupal-custom-module",
+  "require": {
+  	"ubc-web-services/ubc_announcement": "~1.0"
+  	
+  }
+}
